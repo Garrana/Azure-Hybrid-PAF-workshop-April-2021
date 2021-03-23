@@ -19,13 +19,13 @@ Target Audience:
 Workshop Agenda  
 
 •	Day1:   
-o	[Microsoft hybrid cloud solutions] (https://arccontent.blob.core.windows.net/slidesapril/Azure Hybrid Cloud.pptx) – 60 mins   
-o	Azure Arc deep dive 1 – 60 mins  
+o	[Microsoft hybrid cloud solutions](https://arccontent.blob.core.windows.net/slidesapril/Azure_Hybrid_Cloud.pptx) – 60 mins   
+o	[Azure Arc deep dive 1](https://arccontent.blob.core.windows.net/slidesapril/AzureArcDay1.pptx) – 60 mins  
 o	Azure Arc Hands on Lab   
 
 •	Day 2:   
 o [Azure Arc deep dive 2](https://arccontent.blob.core.windows.net/slidesapril/AzureArcDay2.pptx) – 60 mins  
-o	Azure Stack family deep dive – 60 mins   
+o	[Azure Stack family deep dive](https://arccontent.blob.core.windows.net/slidesapril/AzureStackFamily.pptx) – 60 mins   
 o	Azure Arc Hands on Lab   
 
 
