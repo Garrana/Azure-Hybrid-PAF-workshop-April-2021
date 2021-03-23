@@ -19,7 +19,7 @@ Target Audience:
 Workshop Agenda  
 
 •	Day1:   
-o	Microsoft hybrid cloud solutions – 60 mins   
+o	[Microsoft hybrid cloud solutions] (https://arccontent.blob.core.windows.net/slidesapril/Azure Hybrid Cloud.pptx) – 60 mins   
 o	Azure Arc deep dive 1 – 60 mins  
 o	Azure Arc Hands on Lab   
 
