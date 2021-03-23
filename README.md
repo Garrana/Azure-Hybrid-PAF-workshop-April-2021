@@ -24,7 +24,7 @@ o	Azure Arc deep dive 1 – 60 mins
 o	Azure Arc Hands on Lab   
 
 •	Day 2:   
-o	[Azure Arc deep dive 2] (https://arccontent.blob.core.windows.net/slidesapril/AzureArcDay2.pptx) – 60 mins  
+o *	[Azure Arc deep dive 2] (https://arccontent.blob.core.windows.net/slidesapril/AzureArcDay2.pptx) – 60 mins  
 o	Azure Stack family deep dive – 60 mins   
 o	Azure Arc Hands on Lab   
 
